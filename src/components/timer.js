@@ -135,7 +135,7 @@ const Timer = (props) => {
      <span  className='text-white mb-10 mt-4  font-bold flex justify-center' style={{fontSize:"14px"}}>
   countdown set for my Birthday (4sep 00:00)
      </span>
-     <img src={rocket} height="55px" width="30px" 
+     <img src={rocket} alt="" height="55px" width="30px" 
      style={{position:"relative", top:"-15px"}}></img>
 
      </div>
