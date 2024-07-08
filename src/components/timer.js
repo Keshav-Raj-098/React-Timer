@@ -140,7 +140,7 @@ const Timer = ({setTimer,newscript}) => {
 
   }
      </span>
-     <img src={rocket} height="55px" width="30px" 
+     <img src={rocket} alt="" height="55px" width="30px" 
      style={{position:"relative", top:"-15px"}}></img>
 
      </div>
